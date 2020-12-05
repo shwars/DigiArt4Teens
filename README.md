@@ -9,7 +9,7 @@ We are about to explore **Science Art**, where **Science** - namely **Artificial
 
 <img src="https://raw.githubusercontent.com/shwars/FaceArt/master/notebooks/img/PhoBoGuy.png" width="30%"/>
 
-In this technique, we use **[Microsoft Face API](https://docs.microsoft.com/azure/cognitive-services/face/overview/?wt.mc_id=digigirlz-event-dmitryso)** to extract **Facial Landmarks** from a series of pictures, and then we scale and align pictures in such a way that eyes on all pictures coincide. Merging those photographs, we create an interesting visual effect, like on the photo above. 
+In this technique, we use **[Microsoft Face API](https://docs.microsoft.com/azure/cognitive-services/face/overview/?WT.mc_id=academic-0000-dmitryso)** to extract **Facial Landmarks** from a series of pictures, and then we scale and align pictures in such a way that eyes on all pictures coincide. Merging those photographs, we create an interesting visual effect, like on the photo above. 
 
 ## How to Start
 
@@ -21,8 +21,8 @@ All the code and instructions are contained in the [MakeArt.ipynb](MakeArt.ipynb
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shwars/DigiArt4Teens/master)
 
-[VSCode]: https://code.visualstudio.com/?WT.mc_id=digiart-github-dmitryso
-[VSCPyExt]: https://marketplace.visualstudio.com/items?itemName=ms-python.python&WT.mc_id=digiart-github-dmitryso
-[VSCPyDoc]: https://code.visualstudio.com/docs/python/python-tutorial/?WT.mc_id=digiart-github-dmitryso
+[VSCode]: https://code.visualstudio.com/?WT.mc_id=academic-0000-dmitryso
+[VSCPyExt]: https://marketplace.visualstudio.com/items?itemName=ms-python.python&WT.mc_id=academic-0000-dmitryso
+[VSCPyDoc]: https://code.visualstudio.com/docs/python/python-tutorial/?WT.mc_id=academic-0000-dmitryso
 [Codespaces]: https://github.com/features/codespaces/?WT.mc_id=digiart-github-dmitryso
 [Binder]: https://mybinder.org/v2/gh/shwars/DigiArt4Teens/master
