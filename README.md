@@ -7,7 +7,7 @@ Hello!
 
 We are about to explore **Science Art**, where **Science** - namely **Artificial Intelligence**, part of **Computer Science** - will help us create pieces of **Art**! Namely, we will learn the technique called [Cognitive Portrait](http://eazify.net/cognitiveportrait)
 
-<img src="https://raw.githubusercontent.com/shwars/FaceArt/master/notebooks/img/PhoBoGuy.png" width="30%"/>
+<img src="http://soshnikov.com/images/art/PhoBoGuy.png" width="30%"/>
 
 In this technique, we use **[Microsoft Face API](https://docs.microsoft.com/azure/cognitive-services/face/overview/?wt.mc_id=digigirlz-event-dmitryso)** to extract **Facial Landmarks** from a series of pictures, and then we scale and align pictures in such a way that eyes on all pictures coincide. Merging those photographs, we create an interesting visual effect, like on the photo above. 
 
